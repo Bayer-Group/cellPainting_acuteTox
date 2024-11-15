@@ -1,1 +1,2 @@
-Supporting information for the article "Cell Painting and chemical structure read-across can complement each other for rat acute oral toxicity prediction in chemical early de-risking" 19/07/2024
+Supporting information for the article "CCell Painting and Chemical Structure Read-Across Can Complement Each Other for Rat Acute Oral Toxicity Prediction in Chemical Early Derisking" 19/07/2024
+https://doi.org/10.1021/acs.chemrestox.4c00169
